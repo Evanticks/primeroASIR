@@ -11,6 +11,7 @@ Esto es una lista:
 Eso es un enlace: [enlace](https://dit.gonzalonazareno.org)
 
 Esto es un código:
+
 	apt install git
 
 ##Encabezado h2
